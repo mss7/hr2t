@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="1525pt" height="750pt" version="1.1" viewBox="0 0 1525 750" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(166.15 550.15)" fill="#26377b">
+  <path id="path146" d="m-166.15 199.85 8.0996-38.206h1447.6l-8.0996 38.206zm24.342-114.82 8.1138-38.274h1447.6l-8.1138 38.274z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path id="path188" d="m1219-364.32s-8.448-46.256-36.562-61.455c-104.11-56.331-174.26 86.037-179.86 162.83-3.8085 50.895 9.2442 88.253 39.608 104.46 44.421 23.716 95.939 8.2056 129.77-21.154 17.9-15.511 30.918-52.696 30.918-52.696l138.35 0.10386c-17.588 167.92-256.24 260.78-405.71 153.62-115.78-83.025-87.457-284.67-3.0814-380.95 39.366-45.044 103.76-82.471 179.86-89.119 105.01-9.3135 174.01 26.694 216.46 82.956 32.199 42.655 31.403 78.836 29.152 101.62l-138.91-0.20773"/>
+  <path id="path190" d="m462.2-532.03-22.955 121.87h148.79l-64.124 374.58 136.33 0.10387 63.92-373.96 143.75 0.0339 20.905-122.67-426.62 0.0343"/>
+  <path id="path192" d="m269.21-532.06c137 16.757 113.11 217.26 23.059 235.33 0 0 69.349 53.734 51.83 135.1-8.3094 38.604-17.414 126.06-245.3 126.06h-215.04l105.25-496.49zm-163.25 94.381-19.112 90.954h105.91c47.779 1.5926 70.872-67.029 16.827-87.768-12.153-4.674-103.63-3.1853-103.63-3.1853zm-41.409 194.68-19.112 90.954h105.91c47.779 1.5926 70.076-65.437 16.827-87.768-12.014-5.0549-103.63-3.1853-103.63-3.1853"/>
+ </g>
+</svg>
